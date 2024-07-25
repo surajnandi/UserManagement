@@ -1,0 +1,12 @@
+Step2: Add database (UserManagement) in MSSQL server.
+
+Step2: Next build and run .NET API project (UserManagement).
+
+Step3: Then setup angular environment.
+--> [Open Command Prompt and type] npm install -g @angular/cli
+
+Step3: Open angular project directory (UserManagement) if node_modules not available then install node module.
+--> [Open Command Prompt and type] npm install [if npm not install the run --> npm install --legacy-peer-deps].
+
+Step4: After all successfully done then run the project.
+--> [Open Command Prompt and type] ng s -o   (or)  ng serve
